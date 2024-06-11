@@ -50,7 +50,16 @@ docker network ls
 
 # COLOCAR UNA CAPTURA DE LAS REDES EXISTENTES CREADAS
 
+![image](https://github.com/JexDev13/2024A-ISWD633-Practica2/assets/119013519/0b8ce8b0-7af5-48ce-89e9-faac7f6b3279)
+
+
 # COLOCAR UNA(S) CAPTURAS(S) DE LOS CONTENEDORES CREADOS EN DONDE SE EVIDENCIE A QUÉ RED ESTÁN VINCULADOS
+![image](https://github.com/JexDev13/2024A-ISWD633-Practica2/assets/119013519/af5ad3a1-cb2e-49ed-b262-ac28938e9a36)
+![image](https://github.com/JexDev13/2024A-ISWD633-Practica2/assets/119013519/2b8f3070-bbb6-4047-bcbb-9792c309c3e8)
+
+
+
+
 
 ### Para eliminar las redes creadas
 ```
