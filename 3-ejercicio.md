@@ -8,16 +8,21 @@
 
 # COMPLETAR
 
+![image](https://github.com/JexDev13/2024A-ISWD633-Practica2/assets/119013519/031baaf2-37a2-4dad-845f-1f2c15aa4c78)
+
+
 La figura presenta el esquema creado en donde los puertos son:
-- a: (completar con el valor)
-- b: (completar con el valor)
-- c: (completar con el valor)
+- a: (5050)
+- b: (80)
+- c: (5432)
 
 ![Imagen](imagenes/esquema-ejercicio3.PNG)
 
 ## Desde el cliente
 ### Acceder desde el cliente al servidor postgres creado.
 # COMPLETAR CON UNA CAPTURA DEL LOGIN
+![image](https://github.com/JexDev13/2024A-ISWD633-Practica2/assets/119013519/80176689-31d9-4a55-8361-f7192555416f)
+
 ### Crear la base de datos info, y dentro de esa base la tabla personas, con id (serial) y nombre (varchar), agregar un par de registros en la tabla, obligatorio incluir su nombre.
 
 ## Desde el servidor postgresl
@@ -26,3 +31,5 @@ La figura presenta el esquema creado en donde los puertos son:
 # COMPLETAR
 ### Realizar un select *from personas
 # AGREGAR UNA CAPTURA DE PANTALLA DEL RESULTADO
+![image](https://github.com/JexDev13/2024A-ISWD633-Practica2/assets/119013519/c24a4689-c4e6-48fa-87ac-f01b9115a2f7)
+
